@@ -1,0 +1,8 @@
+.quote-card {
+  width: 30vw;
+  height: auto;
+}
+
+.quote-search {
+  background-color: var(--primary-quotes-bg-color);
+}

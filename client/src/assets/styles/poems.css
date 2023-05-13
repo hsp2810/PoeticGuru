@@ -1,0 +1,8 @@
+.poem-card {
+  width: 17vw;
+  height: auto;
+}
+
+.poem-search {
+  background-color: var(--primary-background-color);
+}

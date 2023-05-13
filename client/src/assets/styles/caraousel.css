@@ -1,0 +1,19 @@
+.arrows {
+  cursor: pointer;
+  color: black;
+  text-align: center;
+  border-radius: 2rem;
+  padding: 1rem;
+}
+
+.arrows-poems {
+  background-color: var(--primary-background-color);
+}
+
+.arrows-stories {
+  background-color: var(--primary-stories-bg-color);
+}
+
+.arrows-quotes {
+  background-color: var(--primary-quotes-bg-color);
+}

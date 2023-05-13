@@ -1,0 +1,12 @@
+@import './main.css';
+
+.nav-links {
+  color: #000;
+  font-weight: 600;
+  padding: 1rem;
+  transition: 0.2s;
+}
+
+.nav-links:hover {
+  color: var(--primary-color);
+}
